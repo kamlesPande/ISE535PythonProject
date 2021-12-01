@@ -1,2 +1,2 @@
 # ISE535PythonProject
-Fall-21 Python Project
+Fall-21 ISE-535 Project
